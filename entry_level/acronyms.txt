@@ -1,0 +1,3 @@
+ML - Machine Learning
+UX - User Experience
+AI - Artificial Intelegence
